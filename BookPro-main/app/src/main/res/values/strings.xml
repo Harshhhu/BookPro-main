@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">BookPro</string>
+    <string name="book_pro">BookPro</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="log_in">LOG IN</string>
+    <string name="register">REGISTER</string>
+    <string name="register_as_customer">REGISTER AS CUSTOMER</string>
+    <string name="register_as_suppliers">REGISTER AS SUPPLIERS</string>
+    <string name="register_as_admin">REGISTER AS ADMIN</string>
+    <string name="register_lower_case">Register</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login_lower_case">Log-In</string>
+    <string name="name">Name</string>
+    <string name="admin_code">Admin Code</string>
+    <string name="FOLLOW">FOLLOW</string>
+    <string name="SEND_SMS">SEND SMS</string>
+    <string name="MAKE_A_CALL">MAKE A CALL</string>
+    <string name="foobar">foobar</string>
+    <string name="Discover">Discover</string>
+    <string name="POPULAR_DEALS">POPULAR DEALS</string>
+    <string name="BROWSE_ALL">BROWSE ALL</string>
+    <string name="Search">Search</string>
+    <string name="Search_">Search...</string>
+    <string name="BUY">BUY</string>
+    <string name="add_product">Add Product\n</string>
+    <string name="add_product_as_supplier">Add Product as Supplier</string>
+    <string name="go_to_admin_dashboard">Go To Admin Dashboard</string>
+    <string name="admin_dashboard">Admin Dashboard</string>
+    <string name="register_login">Register/Login</string>
+    <string name="users">USERS</string>
+    <string name="data">DATA</string>
+    <string name="analysis">Analysis</string>
+    <string name="features">Features</string>
+    <string name="configuration">Configuration</string>
+    <string name="details">Details</string>
+    <string name="listing">Listing</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="name_of_destination">Name of Destination</string>
+    <string name="Log_out">LOG OUT</string>
+    <string name="add_categories">Add Categories</string>
+    <string name="category">Category</string>
+    <string name="TRENDING_DEALS">TRENDING DEALS</string>
+    <string name="BEST_DEALS">BEST DEALS</string>
+
+</resources>
